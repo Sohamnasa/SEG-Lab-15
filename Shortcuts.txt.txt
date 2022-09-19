@@ -1,0 +1,8 @@
+git add .  
+# adds everything
+
+git commit
+
+
+git commit -m " "
+#inserts message
